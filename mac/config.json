@@ -1,0 +1,32 @@
+
+{
+  "autosave": true,
+  "cpu": {
+    "enabled": true,
+    "huge-pages": false,
+    "priority": null,
+    "asm": true
+  },
+  "opencl": {
+    "enabled": false
+  },
+  "cuda": {
+    "enabled": false
+  },
+  "donate-level": 1,
+  "pools": [
+    {
+      "algo": null,
+      "coin": "XMR",
+      "url": "pool.supportxmr.com:443",
+      "user": "49B5wxnDMGwQXaivz86wVvKYCjEg5eDK4T5ynwRrsCWKMJxCcim2epcbHni5NTTuhsTNCQEXF4qAMQxHN9JXjdgpExgy2Xh",
+      "pass": "x",
+      "rig-id": "Duck",
+      "keepalive": true,
+      "tls": false
+    }
+  ],
+  "log-file": null,
+  "print-time": 60,
+  "watch": false
+}
